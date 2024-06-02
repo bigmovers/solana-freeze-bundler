@@ -68,4 +68,4 @@ This script is intended for educational purposes only. Deploying tokens and mana
 
 ## Contact
 
-For any inquiries or support, please open an issue on the GitHub repository or contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or support, please open an issue on the GitHub repository or contact https://t.me/benoriz0
