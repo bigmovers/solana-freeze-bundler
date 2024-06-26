@@ -11,7 +11,7 @@ This can be useful for managing token security and preventing malicious activiti
 
 [benorizz0](https://t.me/benorizz0) **(ACTIVE)**
 
-[@benoriz0](https://t.me/benoriz0) (SUSPENDED TEMPORARY)
+~~@benoriz0~~ (SUSPENDED TEMPORARY)
 
 **Other tools**
 - [Solana Volume Bot](https://github.com/bigmovers/solana-volume-bot)
@@ -40,7 +40,7 @@ This can be useful for managing token security and preventing malicious activiti
 
 ## Installation
 
-1. **Get the script from https://t.me/benoriz0**
+1. **Get the script from https://t.me/benorizz0**
 
 
 5. **Install Node.js and npm:**
